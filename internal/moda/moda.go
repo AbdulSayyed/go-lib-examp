@@ -1,4 +1,4 @@
-ppackage moda
+package moda
 
 // SayHelloA returns a greeting from Module A
 func SayHelloA() string {
