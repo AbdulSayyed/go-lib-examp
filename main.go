@@ -4,7 +4,7 @@ import (
     "fmt"
     "os"
     "github.com/spf13/cobra"
-    "github.com/AbdulSayyed/go-lib-examp/modc"
+    "github.com/AbdulSayyed/go-lib-examp/internal/modc"
 )
 
 func main() {

@@ -1,6 +1,6 @@
 package modc
 
-import "github.com/AbdulSayyed/go-lib-examp/modb"
+import "github.com/AbdulSayyed/go-lib-examp/internal/modb"
 
 // SayHelloC calls modb.SayHelloB and adds its own message
 func SayHelloC() string {
